@@ -1,0 +1,17 @@
+{
+  "name": "youtube_playlist_analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "youtube": "youtube.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
